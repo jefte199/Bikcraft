@@ -7,9 +7,9 @@
 ## Em Desenvolvimento...
 
 
-## Pagina Home
+## Home page
 ![Clock](img/bikcraft_home.jpg)
 
 
-## Pagina produtos
+## Produtos
 ![Clock](img/bikcraft_produtos.jpg)
