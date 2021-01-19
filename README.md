@@ -12,4 +12,4 @@
 
 
 ## Pagina produtos
-![Clock](img/bikcraft_sobre.jpg)
+![Clock](img/bikcraft_produtos.jpg)
