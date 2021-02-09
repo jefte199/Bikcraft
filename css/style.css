@@ -193,6 +193,10 @@ img {
   padding: 60px 0;
 }
 
+.produtos_lista li img {
+  margin: 0 auto;
+}
+
 .produtos_lista li {
   background: #fec632;
   text-align: center;
