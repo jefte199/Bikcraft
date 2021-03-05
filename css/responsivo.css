@@ -25,6 +25,10 @@
 
 @media only screen and (max-width: 787px) {
 
+  .introducao-interna {
+    margin-top: 0px;
+  }
+
   .introducao {
     margin-top: 0px;
   }
@@ -60,6 +64,11 @@
     display: block;
     float: left;
   }
+
+  .header_menu ul li a.menu_ativo {
+    border-color: #fff;
+  }
+  
   /* call */
   .call {
     padding-top: 10px;
@@ -68,6 +77,10 @@
   /* Qualidade da Home*/
   .qualidade::after {
     display: none;
+  }
+
+  .missao_sobre p {
+    padding-right: 0px;
   }
 }
 
