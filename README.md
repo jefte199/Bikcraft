@@ -2,10 +2,13 @@
 
 ## Projeto web feito no curso Web Designer Completo da origamid
 
-[ORIGAMID:] https://www.origamid.com/curso/
+#### Site da ORIGAMIDE
 
-## Em Desenvolvimento...
+- [SITE-ORIGAMID](https://www.origamid.com/curso/)
 
+<h4 align="center"> 
+	:sunglasses:  Curso finalisado  :ok:
+</h4>
 
 ## Home page
 ![Clock](img/bikcraft_home.jpg)
