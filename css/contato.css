@@ -62,8 +62,8 @@
 }
 
 .contato_dados span{
-		display: block;
-		font-weight: 18px;
+	display: block;
+	font-size: 18px;
 	line-height: 25px;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 }
